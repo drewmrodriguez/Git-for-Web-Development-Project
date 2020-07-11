@@ -7,7 +7,7 @@ Semantic HTML is the correct use of HTML to define the meaning of content on a w
 It is used to create electronic pages that are displayed on the web.
 
 3. What is an attribute and where do we put it? 
-Attributes provide extra information about HTML elements, it comes after a tag.
+Attributes provide extra  information about HTML elements, it comes after a tag.
 
 4. What is the h1 tag used for? How many times should I use it on a page?
 Indicates a heading on a website, it should only be used once.
